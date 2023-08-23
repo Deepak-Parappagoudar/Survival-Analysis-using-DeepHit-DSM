@@ -28,8 +28,6 @@ The dataset contains information about 80,000 loan applications.
 The dataset includes 146 event types.
 
 
-The dataset includes 100 features.
-
 
 The dataset includes the outcome of the loan application (approved or rejected).
 
