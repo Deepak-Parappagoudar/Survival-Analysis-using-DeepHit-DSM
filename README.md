@@ -1,1 +1,1 @@
-# Survival-Analysis-using-DeepHit-DSM
+# Survival-Analysis-using-DeepHit & DeepSurv
