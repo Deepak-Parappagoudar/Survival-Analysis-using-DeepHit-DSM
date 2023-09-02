@@ -2,7 +2,7 @@
 
 This project was part of my Machine Learninng & Data Analytics Seminar at FAU Erlangen-Nuremberg.
 There are several steps involved in securing a loan, from application to approval. We try to predict how long an application survives, in other words, the time duration for an application to be accpeted or rejected. 
-
+My part of the project calculates the survival probabilities for each sub-process. This will be extended by the chair of Machine Learning and Dtaa Analytics to calculate the time required to complete the sub-process.
 Nomenclature:
 
 
